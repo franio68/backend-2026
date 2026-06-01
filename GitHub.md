@@ -10,3 +10,5 @@
   > Aparte: 99% - 99,9% - 99,99%
 - Trabajo en equipo
 - Punto de encuentro de la comunidad Open Source (proyectos colaborativos de código abierto)
+
+#### Copyright 2026 Francisco Davila, Inc.
